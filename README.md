@@ -1,4 +1,4 @@
-# pipex
+# Pipex
 School 21 project "pipex" implementation.
 
 ## How to use
