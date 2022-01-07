@@ -13,7 +13,7 @@ $git clone <repository url>
 $make
 ````
 
-####Use parameters
+#### Use parameters
 ````
 $./pipex <input file> command_1 command_2 <output file>
 ````
