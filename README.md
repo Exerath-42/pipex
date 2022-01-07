@@ -17,6 +17,6 @@ $make
 ````
 $./pipex <input file> command_1 command_2 <output file>
 ````
-##### You can check task file
+#### You can see the task file
 
 [subject](./pipex.en.subject.pdf)
