@@ -17,3 +17,6 @@ $make
 ````
 $./pipex <input file> command_1 command_2 <output file>
 ````
+##### You can check subject
+
+[subject.pdf](./pipex.en.subject.pdf)
